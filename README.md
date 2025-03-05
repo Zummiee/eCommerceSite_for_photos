@@ -15,7 +15,6 @@ Main Website Features:
 14. Only admin users can add, edit or remove products.
 
 Notes: 
-- Deployed site can be found at https://ecommercesite-for-photos.onrender.com (not yet mobile friendly, please view via desktop)
 - Developed the backend independently using Python.
 - Adapted a pre-existing frontend template to meet project requirements, some front-end adjustments still needed.
 - Not Started:
